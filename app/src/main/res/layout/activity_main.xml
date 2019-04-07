@@ -21,5 +21,6 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="Get Massage"
-        android:textSize="36sp" />
+        android:textSize="36sp"
+        android:onClick="showMsg"/>
 </LinearLayout>
